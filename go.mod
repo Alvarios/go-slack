@@ -1,4 +1,4 @@
-module https://github.com/Alvarios/go-slack
+module github.com/Alvarios/go-slack
 
 go 1.14
 
